@@ -1,0 +1,31 @@
+body{font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.Skip{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+font-size: 20px;
+margin-left: 30px;
+
+}
+.link-battom{
+    background-image: linear-gradient(orange,tomato);
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 30px;
+    color: white;
+}
+.img{
+    background-image: url(7.png);
+}
+.text{
+    text-align: center;
+}
+.ptext{
+    margin-left: 350px;
+margin-right: 350px;
+}
